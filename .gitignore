@@ -1,4 +1,10 @@
-/.gradle/
-/.metadata/
-/build/
-/RemoteSystemsTempFiles/
+.gradle/
+.metadata/
+.recommenders/
+build/
+RemoteSystemsTempFiles/
+rebel.xml
+
+# linked projects
+org.exist.eclipse.db.v141
+org.exist.eclipse.db.v460
